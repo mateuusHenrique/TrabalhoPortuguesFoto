@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 05 Nov 2024 18:29:11 at https://combatendo-a-dengue-boprbru.gamma.site/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://combatendo-a-dengue-boprbru.gamma.site/ -O1 "C:\Users\Mateus\Desktop\Curso Alura\Trabalho de Portugues" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:29:51	Error: 	"Bad Request" (400) at link https://imgproxy.gamma.app/resize/quality/resizing_type:fit/width:400/blur:50/https://cdn.gamma.app/4a0a1a99vf3qef9/6f37bccf1f4643d792fa1c9f17bedef5/original/150731181755-dengue-insecticide-spraying.jpg (from https://combatendo-a-dengue-boprbru.gamma.site/)
+18:29:51	Error: 	"Bad Request" (400) at link https://imgproxy.gamma.app/resize/quality/resizing_type:fit/width:1200/https://cdn.gamma.app/4a0a1a99vf3qef9/6f37bccf1f4643d792fa1c9f17bedef5/original/150731181755-dengue-insecticide-spraying.jpg (from https://combatendo-a-dengue-boprbru.gamma.site/)
+18:29:51	Error: 	"Bad Request" (400) at link https://imgproxy.gamma.app/resize/quality/resizing_type:fit/width:1000/height:1000/https://cdn.gamma.app/4a0a1a99vf3qef9/d4e959d12d7f441eb53601d2ff3406ab/original/3831b16d-8658-4238-8c4b-255e23adca1c.jpg (from https://combatendo-a-dengue-boprbru.gamma.site/)
+18:29:51	Error: 	"Bad Request" (400) at link https://imgproxy.gamma.app/resize/quality/resizing_type:fit/width:1000/height:1000/https://cdn.gamma.app/4a0a1a99vf3qef9/7b9f042d74d344f28ab42968bab21045/original/5dde9511-b0d6-4fdc-b0d0-54eb091fc0ac.jpg (from https://combatendo-a-dengue-boprbru.gamma.site/)
+18:29:51	Error: 	"Bad Request" (400) at link https://imgproxy.gamma.app/resize/quality/resizing_type:fit/width:1000/height:1000/https://cdn.gamma.app/4a0a1a99vf3qef9/a0f973ea2e914b918ceba0b0d2fe5131/original/41fcb3e5-a618-44cc-bc58-eba332285e39.jpg (from https://combatendo-a-dengue-boprbru.gamma.site/)
+18:29:51	Error: 	"Not Found" (404) at link https://combatendo-a-dengue-boprbru.gamma.site/syllab.ai (from https://combatendo-a-dengue-boprbru.gamma.site/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 40 seconds : 97 links scanned, 90 files written (8547960 bytes overall) [3173932 bytes received at 79348 bytes/sec], 7510070 bytes transferred using HTTP compression in 32 files, ratio 26%, 13.8 requests per connection
+(6 errors, 0 warnings, 0 messages)
